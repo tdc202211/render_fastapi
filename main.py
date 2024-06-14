@@ -42,7 +42,8 @@ def index():
             <title>Some HTML in here</title>
         </head>
         <body>
-            <h1>Look ma! HTML!</h1>
+            <h1>Hello World!</h1>
+            <p>Nice to meet you!</p>
         </body>
     </html>
     """
